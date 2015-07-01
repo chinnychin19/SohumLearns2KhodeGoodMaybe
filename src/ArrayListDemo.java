@@ -1,6 +1,8 @@
 
 public class ArrayListDemo {
 	public static void main(String[] args) {
+		// TODO: You can switch between testing your implementation and the solution by toggling the next two lines
+//		ArrayList<Integer> arr = new ArrayList<Integer>(); // your implementation
 		ArrayList_Solution<Integer> arr = new ArrayList_Solution<Integer>();
 		
 		System.out.println("Adding 0-25 to end of list");
